@@ -1,4 +1,4 @@
-# 🔥 dop bip's Vulnerability Research Toolkit
+# 🥷 Pu1k's Vulnerability Research Toolkit
 
 ## Setup
 ```bash
